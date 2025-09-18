@@ -1,5 +1,9 @@
 https://github.com/carmelogithub/accesoDatos
 
+Puedes subir la solución a esta actividad en formato PDF nombrando el archivo con tu nombre a
+https://nebrija-my.sharepoint.com/:f:/g/personal/cescriba_nebrija_es/EnSD-VjgpGBBtbB0TvrWEUcBFvc3KPRA8psxTB6Vdk6vgQ
+
+
 Investigar arquitecturas de diseño de programación. Ejemplo MVC, MVVM...
 Cuáles son las princiaples y sus funcionalidades.
 Cuál eliges para tu proyecto CRM
@@ -11,5 +15,6 @@ Google Firebase?
 XML vs JSON
 marcados de almacenamiento. Ventajas y desventajas
 REST vs SOAP
+
 
 En Java necesito una explicación / demo de serializar / deserializar un archivo de marcado de almacenamiento
