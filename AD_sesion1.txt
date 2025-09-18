@@ -1,0 +1,15 @@
+https://github.com/carmelogithub/accesoDatos
+
+Investigar arquitecturas de diseño de programación. Ejemplo MVC, MVVM...
+Cuáles son las princiaples y sus funcionalidades.
+Cuál eliges para tu proyecto CRM
+
+Alternativas para desploy el proyecto
+Spring Boot + Fuente de datos + Front Angular/React
+Google Firebase?
+
+XML vs JSON
+marcados de almacenamiento. Ventajas y desventajas
+REST vs SOAP
+
+En Java necesito una explicación / demo de serializar / deserializar un archivo de marcado de almacenamiento
