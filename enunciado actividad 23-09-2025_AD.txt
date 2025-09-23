@@ -17,5 +17,10 @@ https://nebrija-my.sharepoint.com/:f:/g/personal/cescriba_nebrija_es/Eiq9zhZ-6Y1
 Si no puedes subir archivo a la carpeta compartida, envia el pdf a mi correo
 cescriba@nebrija.es
 
+Es importante disponer de MySQL, postgres y los entornos de desarrollo para java, php y python en nuestras máquinas.
+Lo puedes configurar en casa y si tienes algún problema, me puedes indicar a cescriba@nebrija.es
+
+El archivo PDF del ejercicio del día 23-09-2025 lo puedes enviar a lo largo de la semana.
+
 
 
