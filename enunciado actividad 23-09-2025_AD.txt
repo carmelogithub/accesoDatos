@@ -1,0 +1,12 @@
+Ejercicio 1
+Por consola, te pide que introduzcas una ciudad
+La introduces, y se pide otra...hasta que le digas que no quieres más.
+Por ejemplo, pulsando q
+cómo se guardan las ciudades?array, arraylist, set, diccionario....
+si alguien repite la ciudad no error, pero NO se guarda dos veces *
+data NO es persistente.
+Para convertirlo en persistente, almacena en un fichero csv
+
+Escenario 1 - java
+Escenario 2 - php
+Escenario 3 - python
